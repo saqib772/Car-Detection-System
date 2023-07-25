@@ -48,3 +48,7 @@ python yolo.py
 
 
 
+
+
+https://github.com/saqib772/Car-Detection-System/assets/121972215/37ab8d54-64ba-406f-85b6-444bc23594aa
+
